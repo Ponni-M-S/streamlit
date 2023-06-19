@@ -6,4 +6,4 @@ st.title("hello")
 
 
 #Image
-st.image("streamlit.gif")
+#st.image("streamlit.gif")
